@@ -125,19 +125,19 @@ Predicted Average Temperature : 12.66°C
 
 ### 1. Actual vs Predicted Temperature
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+<img width="887" height="755" alt="Screenshot 2026-06-13 121052" src="https://github.com/user-attachments/assets/74770715-8eb6-4233-b343-887afe3f7a2c" />
 
 ### 2. Residual Plot
 
-![Residual Plot](images/residual_plot.png)
+<img width="893" height="751" alt="Screenshot 2026-06-13 121113" src="https://github.com/user-attachments/assets/05eceacc-3dc6-4fb0-837f-0a69bb59a2fb" />
 
 ### 3. Feature Importance Chart
 
-![Feature Importance](images/feature_importance.png)
+<img width="881" height="732" alt="Screenshot 2026-06-13 121139" src="https://github.com/user-attachments/assets/2c7d6e89-d71e-4135-9eb3-afe0699fec99" />
 
 ### 4. Residual Distribution Histogram
 
-![Residual Histogram](images/residual_histogram.png)
+<img width="872" height="741" alt="Screenshot 2026-06-13 121202" src="https://github.com/user-attachments/assets/6ea4fb6f-2bef-46f9-8c8f-e01660f63cdb" />
 
 ---
 
